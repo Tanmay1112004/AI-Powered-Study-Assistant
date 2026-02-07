@@ -1,0 +1,11 @@
+streamlit
+google-generativeai
+langchain
+langchain-google-genai
+chromadb
+PyPDF2
+python-docx
+faiss-cpu
+numpy
+pdfplumber
+pypdf
