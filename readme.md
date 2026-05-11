@@ -18,7 +18,8 @@
 
 ![demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_191923_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)   
 
-![demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_191958_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)                                          
+![demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_191958_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)     
+
 ![demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_192043_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)                                        
 [demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_192427_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)
 
