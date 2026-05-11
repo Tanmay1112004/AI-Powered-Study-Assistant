@@ -65,7 +65,7 @@ No fluff. Just focused learning.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/ai-study-assistant.git
+git clone https://github.com//ai-study-assistant.git
 cd ai-study-assistant
 ```
 
