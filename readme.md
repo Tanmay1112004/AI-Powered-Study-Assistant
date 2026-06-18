@@ -22,8 +22,6 @@
 
 ![demo](https://github.com/Tanmay1112004/AI-Powered-Study-Assistant/blob/main/screenshots/Screenshot_7-2-2026_192043_probable-cod-97qgx7pr7vjvfp4wp-8501.app.github.dev.jpeg)  
 
-
-
 ---
 
 ## 📌 Overview
@@ -65,7 +63,7 @@ No fluff. Just focused learning.
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/Tanmay1112004/ai-study-assistant.git
+git clone https://github.com//ai-study-assistant.git
 cd ai-study-assistant
 ```
 
